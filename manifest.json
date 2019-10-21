@@ -1,0 +1,13 @@
+{
+    "short_name":"MFA | Visual Designer",
+    "name":"MFA | Visual Designer",
+    "icons":[
+      {
+        "src":"https://gonzalocervantes.com/portfolio/flor/img/144.png",
+        "sizes":"144x144",
+        "type":"image/png"
+      }
+    ],
+    "display":"standalone",
+    "theme_color": "#ea4c89"
+  }
