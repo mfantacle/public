@@ -754,8 +754,8 @@ __webpack_require__.r(__webpack_exports__);
 var app = document.getElementById('app');
 var content = {
   title: 'María Florencia Antacle',
-  subtitle: 'Visual|UI|UX Designer',
-  p1: 'I\'m a Visual|UI|UX Designer who loves creating consistent, eye-catching and pixel perfect layouts.',
+  subtitle: 'UI/UX Visual Designer',
+  p1: 'I\'m a UI/UX Visual Designer who loves creating consistent, eye-catching and pixel perfect layouts.',
   p2: 'I also enjoy making ilustrations and taking photographs.',
   p3: 'Portfolio:<br>' + '<a href=\'https://www.behance.net/antacle\' target=\'_blank\'>Behance</a> & ' + '<a href=\'https://dribbble.com/antacle\' target=\'_blank\'>Dribbble</a>',
   p4: 'You can also find me here:<br>' + '<a href=\'https://www.instagram.com/florenciaantacle\' target=\'_blank\'>Instagram</a> & ' + '<a href=\'https://github.com/mfantacle\' target=\'_blank\'>GitHub</a>'
