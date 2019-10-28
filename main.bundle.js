@@ -758,7 +758,7 @@ var content = {
   p1: 'I\'m a UI/UX Visual Designer who loves creating consistent, eye-catching and pixel perfect layouts.',
   p2: 'I also enjoy making ilustrations and taking photographs.',
   p3: 'Portfolio:<br>' + '<a href=\'https://www.behance.net/antacle\' target=\'_blank\'>Behance</a> & ' + '<a href=\'https://dribbble.com/antacle\' target=\'_blank\'>Dribbble</a>',
-  p4: 'You can also find me here:<br>' + '<a href=\'https://www.instagram.com/florenciaantacle\' target=\'_blank\'>Instagram</a> & ' + '<a href=\'https://github.com/mfantacle\' target=\'_blank\'>GitHub</a>'
+  p4: 'You can also find me here:<br>' + '<a href=\'https://www.linkedin.com/in/antacle\' target=\'_blank\'>LinkedIn</a>, ' + '<a href=\'https://www.instagram.com/florenciaantacle\' target=\'_blank\'>Instagram</a> & ' + '<a href=\'https://github.com/mfantacle\' target=\'_blank\'>GitHub</a>'
 };
 var appContent = '<div class="content">' + '<div class="card">' + '<h1>' + content.title + '</h1>' + '<h2>' + content.subtitle + '</h2>' + '<p>' + content.p1 + '</p>' + '<p>' + content.p2 + '</p>' + '<p>' + content.p3 + '</p>' + '<p>' + content.p4 + '</p>' + '</div>' + '</div>';
 app.innerHTML = appContent;
